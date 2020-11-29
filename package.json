@@ -1,0 +1,23 @@
+{
+  "name": "ajs-hw-3-node",
+  "version": "1.0.0",
+  "description": "hw-3 2nd part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtimir/ajs-hw-3-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahtimir/ajs-hw-3-node/issues"
+  },
+  "homepage": "https://github.com/ahtimir/ajs-hw-3-node#readme",
+  "dependencies": {
+    "@ahtimir/ajs-hw-3": "^1.0.0"
+  }
+}
